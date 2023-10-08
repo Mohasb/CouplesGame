@@ -1,2 +1,2 @@
 # CouplesGame
-A game made with windows forms with C#.
+Card game made with windows from and c#
